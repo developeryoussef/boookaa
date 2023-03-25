@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "522359238633",
+    "project_id": "boooka-eff8e",
+    "storage_bucket": "boooka-eff8e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522359238633:android:7124d1e2970819cb5f2578",
+        "android_client_info": {
+          "package_name": "com.example.boookaa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "522359238633-960lejnn5bhj7ciahe374rdavrrs8mdn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCS7dRmYf6c9pS1N7eVDi6NWAZtik99h9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "522359238633-960lejnn5bhj7ciahe374rdavrrs8mdn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
